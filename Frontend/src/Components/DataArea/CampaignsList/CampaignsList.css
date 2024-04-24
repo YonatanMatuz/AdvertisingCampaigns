@@ -1,0 +1,27 @@
+.CampaignsList {
+	width: 190vh;
+	margin: auto;
+}
+.CampaignsList .campaignTable {
+    width: auto;
+    border-collapse: collapse;
+}
+
+.CampaignsList .campaignTable td {
+    border: 1px solid #dddddd; 
+    padding: 8px; 
+    text-align: left;
+}
+
+.CampaignsList .campaignTable th {
+    background-color: #f2f2f2;
+    border: 1px solid #dddddd;
+    padding: 8px;
+    color: #333333; 
+    font-weight: bold;
+	text-align: center; 
+}
+
+.CampaignsList .addCampaignBtn {
+	margin: 20px;
+}
